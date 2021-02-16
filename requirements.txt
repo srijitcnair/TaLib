@@ -1,0 +1,4 @@
+jupyter
+pandas-ta
+pandas_datareader
+matplotlib
